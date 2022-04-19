@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://c.tenor.com/LxPhscggUL8AAAAC/fire-performance-fire-dance.gif)
+![](https://i.pinimg.com/originals/1f/92/a6/1f92a67c2bd07ecf0f64f25a71aa3191.gif)
 
 <p align="left"> 
   <a href="https://github.com/jumpei-kurata/jumpei-kurata/">
