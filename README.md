@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 <div id="user-content-header" align="center" dir="auto">
   
-  <br>  
   <div id="user-content-badges" dir="auto">
   <p align="left"> 
   <a href="https://github.com/jumpei-kurata/jumpei-kurata/">
