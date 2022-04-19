@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 <p align="left"> 
   <a href="https://github.com/jumpei-kurata/jumpei-kurata/">
-    <img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" />
+    <img src="https://komarev.com/ghpvc/?username=jumpei-kurata" alt="jumpei-kurata" />
   </a>
   <a href="https://twitter.com/panpaaaaash">
-    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/jumpei-kurata?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/jumpei-kurata">
-    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/jumpei-kurata?label=follow&logo=github&style=flat" />
   </a>
 </p>
