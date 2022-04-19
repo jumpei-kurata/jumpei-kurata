@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     
   <br>  
   <div id="user-content-badges" dir="auto">
-   <a href="https://github.com/jumpei-kurata/jumpei-kurata/">
+   <a href="https://github.com/jumpei-kurata/jumpei-kurata/"  style="text-decoration:none;">
     <img src="https://komarev.com/ghpvc/?username=jumpei-kurata" alt="jumpei-kurata" />
   　　</a>
    <a href="https://twitter.com/panpaaaaash">
