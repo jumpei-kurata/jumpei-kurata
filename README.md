@@ -19,7 +19,9 @@ Here are some ideas to get you started:
   <div class="Box-body p-4">
     
   <article class="markdown-body entry-content container-lg f5" itemprop="text"><div id="user-content-header" align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0d243439f85f33708fe341c6916e2e831528c290aded3e834d7b3f5060e2ff71/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4a4b4e57787475686772394a5a677a7a356b2f67697068792e676966"><img src="https://camo.githubusercontent.com/0d243439f85f33708fe341c6916e2e831528c290aded3e834d7b3f5060e2ff71/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4a4b4e57787475686772394a5a677a7a356b2f67697068792e676966" width="400" data-canonical-src="https://media.giphy.com/media/JKNWxtuhgr9JZgzz5k/giphy.gif" style="max-width: 100%;"></a>
+    
+![](https://i.pinimg.com/originals/1f/92/a6/1f92a67c2bd07ecf0f64f25a71aa3191.gif)
+    
   <br>  
   <div id="user-content-badges" dir="auto">
    <a href="https://github.com/jumpei-kurata/jumpei-kurata/">
