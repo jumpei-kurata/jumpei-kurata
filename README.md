@@ -19,7 +19,6 @@ Here are some ideas to get you started:
   
   <article class="markdown-body entry-content container-lg f5" itemprop="text"><div id="user-content-header" align="center" dir="auto">
   ![](https://i.pinimg.com/originals/1f/92/a6/1f92a67c2bd07ecf0f64f25a71aa3191.gif)
-  <br>  
   <div id="user-content-badges" dir="auto">
     
   <p align="left"> 
