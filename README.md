@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=jumpei-kurata" alt="jumpei-kurata" />
   </a>
   <a href="https://twitter.com/panpaaaaash">
-    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://twitter.com/panpaaaaash/followers" />
   </a>
   <a href="https://github.com/jumpei-kurata">
     <img height="20" src="https://img.shields.io/github/followers/jumpei-kurata?label=follow&logo=github&style=flat" />
