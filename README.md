@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://c.tenor.com/LxPhscggUL8AAAAC/fire-performance-fire-dance.gif)
+
 <p align="left"> 
   <a href="https://github.com/jumpei-kurata/jumpei-kurata/">
     <img src="https://komarev.com/ghpvc/?username=jumpei-kurata" alt="jumpei-kurata" />
