@@ -14,24 +14,22 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch and inject latest episode
+      - name: Fetch and inject latest episode + view count
         run: |
           python3 << 'EOF'
-          import urllib.request, json, xml.etree.ElementTree as ET, os, re
+          import urllib.request, json, xml.etree.ElementTree as ET, re
 
-          # Get RSS feed URL via iTunes API
+          # --- Podcast ---
           with urllib.request.urlopen("https://itunes.apple.com/lookup?id=1601084785&entity=podcast") as r:
               data = json.loads(r.read())
           feed_url = data["results"][0]["feedUrl"]
 
-          # Fetch RSS and get latest episode
           with urllib.request.urlopen(feed_url) as r:
               tree = ET.parse(r)
 
           item = tree.getroot().find("channel/item")
           title = item.findtext("title") or "Latest Episode"
 
-          # Resolve episode link: <link>, then <guid> as permalink
           link = item.findtext("link")
           if not link:
               guid = item.find("guid")
@@ -40,39 +38,45 @@ jobs:
           if not link:
               link = "https://podcasts.apple.com/us/podcast/id1601084785"
 
+          # --- Profile view count ---
+          req = urllib.request.Request(
+              "https://komarev.com/ghpvc/?username=jumpei-kurata&style=flat",
+              headers={"User-Agent": "Mozilla/5.0"}
+          )
+          with urllib.request.urlopen(req) as r:
+              svg = r.read().decode()
+          nums = re.findall(r'>(\d+)<', svg)
+          count = nums[-1] if nums else "0"
+
           with open("README.md", "r", encoding="utf-8") as f:
               content = f.read()
 
           # Update episode title + link
-          episode_block = (
-              f"<!-- PODCAST_EPISODE_START -->\n"
-              f"🎧 **[{title}]({link})**\n"
-              f"<!-- PODCAST_EPISODE_END -->"
-          )
           content = re.sub(
               r"<!-- PODCAST_EPISODE_START -->.*?<!-- PODCAST_EPISODE_END -->",
-              episode_block,
-              content,
-              flags=re.DOTALL,
+              f"<!-- PODCAST_EPISODE_START -->\n🎧 **[{title}]({link})**\n<!-- PODCAST_EPISODE_END -->",
+              content, flags=re.DOTALL,
           )
 
-          # Update cover image link to point to latest episode
-          image_block = (
-              f"<!-- PODCAST_IMAGE_START -->\n"
-              f'<a href="{link}"><img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ad/8e/fd/ad8efde9-ff28-54d8-e19c-5d59e7c9291a/mza_4474957022231398879.jpeg/600x600bb.jpg" width="120" alt="ひまじんプログラマー" /></a>\n'
-              f"<!-- PODCAST_IMAGE_END -->"
-          )
+          # Update cover image link
           content = re.sub(
               r"<!-- PODCAST_IMAGE_START -->.*?<!-- PODCAST_IMAGE_END -->",
-              image_block,
-              content,
-              flags=re.DOTALL,
+              f'<!-- PODCAST_IMAGE_START -->\n<a href="{link}"><img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ad/8e/fd/ad8efde9-ff28-54d8-e19c-5d59e7c9291a/mza_4474957022231398879.jpeg/600x600bb.jpg" width="120" alt="ひまじんプログラマー" /></a>\n<!-- PODCAST_IMAGE_END -->',
+              content, flags=re.DOTALL,
+          )
+
+          # Update profile views badge count
+          content = re.sub(
+              r"<!-- VIEWS_BADGE_START -->.*?<!-- VIEWS_BADGE_END -->",
+              f'<!-- VIEWS_BADGE_START -->\n✨ [![GitHub Profile Views](https://img.shields.io/badge/GitHub_Profile_Views-{count}-8b5cf6?style=for-the-badge&labelColor=ec4899&logo=github&logoColor=white)](https://github.com/jumpei-kurata) ✨\n<!-- VIEWS_BADGE_END -->',
+              content, flags=re.DOTALL,
           )
 
           with open("README.md", "w", encoding="utf-8") as f:
               f.write(content)
 
-          print(f"Updated: {title} -> {link}")
+          print(f"Podcast: {title} -> {link}")
+          print(f"Views: {count}")
           EOF
 
       - name: Commit changes
@@ -81,6 +85,6 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git diff --quiet && echo "No changes to commit" || (
             git add README.md &&
-            git commit -m "chore: update latest podcast episode" &&
+            git commit -m "chore: update podcast episode and profile views" &&
             git push
           )
