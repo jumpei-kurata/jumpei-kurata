@@ -1,0 +1,75 @@
+name: Update Latest Podcast Episode
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:        # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch and parse latest episode
+        id: podcast
+        run: |
+          python3 << 'EOF'
+          import urllib.request, json, xml.etree.ElementTree as ET, os, re
+
+          # Step 1: Get RSS feed URL via iTunes API
+          url = "https://itunes.apple.com/lookup?id=1601084785&entity=podcast"
+          with urllib.request.urlopen(url) as r:
+              data = json.loads(r.read())
+          feed_url = data["results"][0]["feedUrl"]
+
+          # Step 2: Fetch RSS and get latest episode
+          with urllib.request.urlopen(feed_url) as r:
+              tree = ET.parse(r)
+
+          item = tree.getroot().find("channel/item")
+          title = item.findtext("title") or "Latest Episode"
+
+          # Try <link>, then <guid> as permalink
+          link = item.findtext("link")
+          if not link:
+              guid = item.find("guid")
+              if guid is not None and guid.get("isPermaLink") != "false":
+                  link = guid.text
+          if not link:
+              link = "https://podcasts.apple.com/us/podcast/id1601084785"
+
+          # Step 3: Inject into README between markers
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          episode_block = (
+              f"<!-- PODCAST_EPISODE_START -->\n"
+              f"🎙️ **[{title}]({link})**\n"
+              f"<!-- PODCAST_EPISODE_END -->"
+          )
+          new_content = re.sub(
+              r"<!-- PODCAST_EPISODE_START -->.*?<!-- PODCAST_EPISODE_END -->",
+              episode_block,
+              content,
+              flags=re.DOTALL,
+          )
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(new_content)
+
+          print(f"Updated: {title}")
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git diff --quiet && echo "No changes to commit" || (
+            git add README.md &&
+            git commit -m "chore: update latest podcast episode" &&
+            git push
+          )
