@@ -2,11 +2,14 @@
 
 # Hi, I'm Jumpei Kurata 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=jumpei-kurata&color=0e75b6&style=flat-square&label=Profile+Views)](https://github.com/jumpei-kurata)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jumpei-kurata/)
-[![X](https://img.shields.io/twitter/follow/panpaaaaash?label=X&logo=x&style=flat-square&color=000000&labelColor=000000)](https://x.com/panpaaaaash)
-[![GitHub](https://img.shields.io/github/followers/jumpei-kurata?label=GitHub&logo=github&style=flat-square)](https://github.com/jumpei-kurata)
-[![Podcast](https://img.shields.io/badge/Podcast-9933CC?style=flat-square&logo=Apple%20Podcasts&logoColor=white)](https://podcasts.apple.com/us/podcast/%E3%81%B2%E3%81%BE%E3%81%98%E3%82%93%E3%83%97%E3%B0%E3%83%A9%E3%83%9E%E3%83%BC/id1601084785)
+![Profile Views](https://komarev.com/ghpvc/?username=jumpei-kurata&color=0e75b6&style=flat&label=Profile+Views)
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jumpei-kurata/)
+[![X](https://img.shields.io/twitter/follow/panpaaaaash?style=for-the-badge&logo=x&color=000000&labelColor=000000&label=Follow)](https://x.com/panpaaaaash)
+[![GitHub](https://img.shields.io/github/followers/jumpei-kurata?label=Follow&logo=github&style=for-the-badge)](https://github.com/jumpei-kurata)
+[![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=Apple%20Podcasts&logoColor=white)](https://podcasts.apple.com/us/podcast/%E3%81%B2%E3%81%BE%E3%81%98%E3%82%93%E3%83%97%E3%B0%E3%83%A9%E3%83%9E%E3%83%BC/id1601084785)
 
 </div>
 
