@@ -19,11 +19,12 @@
 
 | | |
 |:---:|:---|
-| 📍 | Based in **Japan** — actively seeking roles in **Canada** 🍁 |
-| 🔧 | **Java** · **Spring Boot** · HTML · CSS |
-| 🎙️ | Podcast host — [ひまじんプログラマー](https://podcasts.apple.com/us/podcast/id1601084785) *(dev-life podcast, Japanese)* |
+| 📍 | Based in **Japan** — relocating to **Vancouver, Canada** 🍁 (Working Holiday visa) |
+| 💡 | **4+ years** building AI platforms · RAG · LLMs · Full-Stack at **SoftBank Corp.** |
+| 🔧 | **Python** · **TypeScript** · **Azure OpenAI** · RAG · Terraform · Docker |
+| 🎙️ | Podcast host — [ひまじんプログラマー](https://podcasts.apple.com/us/podcast/id1601084785) *(Top 10 in Japan, Peak #7)* |
 | 👥 | Runs **[ひまプロ談話室](https://docs.google.com/forms/d/1qkJjqsy0UA9FPLuAuGTcq7aV2DREP1CWj90gmloqjks/viewform)** — Slack community of **300+ engineers** |
-| 💼 | **Open to work** — software developer roles |
+| 💼 | **Open to work** — software developer roles in Canada |
 | 📫 | se.jumpei114kurata@gmail.com |
 
 ---
@@ -57,17 +58,38 @@
 
 ## 🛠️ Tech Stack
 
+**AI & LLMs**
+
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6366F1?style=for-the-badge&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
 **Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Frameworks & Tools**
 
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -81,6 +103,13 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=jumpei-kurata&theme=tokyonight&hide_border=true" />
 </div>
+
+---
+
+## 🏅 Certifications
+
+![AZ-104](https://img.shields.io/badge/AZ--104_Azure_Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Oracle Java](https://img.shields.io/badge/Oracle_Java_SE_11_Silver-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
