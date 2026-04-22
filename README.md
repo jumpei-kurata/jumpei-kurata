@@ -7,8 +7,8 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jumpei-kurata/)
-[![X](https://img.shields.io/twitter/follow/panpaaaaash?style=for-the-badge&logo=x&color=000000&labelColor=000000&label=Follow)](https://x.com/panpaaaaash)
-[![GitHub](https://img.shields.io/github/followers/jumpei-kurata?label=Follow&logo=github&style=for-the-badge)](https://github.com/jumpei-kurata)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/panpaaaaash)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jumpei-kurata)
 [![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=Apple%20Podcasts&logoColor=white)](https://podcasts.apple.com/us/podcast/id1601084785)
 
 </div>
