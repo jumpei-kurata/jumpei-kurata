@@ -14,26 +14,24 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch and parse latest episode
-        id: podcast
+      - name: Fetch and inject latest episode
         run: |
           python3 << 'EOF'
           import urllib.request, json, xml.etree.ElementTree as ET, os, re
 
-          # Step 1: Get RSS feed URL via iTunes API
-          url = "https://itunes.apple.com/lookup?id=1601084785&entity=podcast"
-          with urllib.request.urlopen(url) as r:
+          # Get RSS feed URL via iTunes API
+          with urllib.request.urlopen("https://itunes.apple.com/lookup?id=1601084785&entity=podcast") as r:
               data = json.loads(r.read())
           feed_url = data["results"][0]["feedUrl"]
 
-          # Step 2: Fetch RSS and get latest episode
+          # Fetch RSS and get latest episode
           with urllib.request.urlopen(feed_url) as r:
               tree = ET.parse(r)
 
           item = tree.getroot().find("channel/item")
           title = item.findtext("title") or "Latest Episode"
 
-          # Try <link>, then <guid> as permalink
+          # Resolve episode link: <link>, then <guid> as permalink
           link = item.findtext("link")
           if not link:
               guid = item.find("guid")
@@ -42,26 +40,39 @@ jobs:
           if not link:
               link = "https://podcasts.apple.com/us/podcast/id1601084785"
 
-          # Step 3: Inject into README between markers
           with open("README.md", "r", encoding="utf-8") as f:
               content = f.read()
 
+          # Update episode title + link
           episode_block = (
               f"<!-- PODCAST_EPISODE_START -->\n"
-              f"🎙️ **[{title}]({link})**\n"
+              f"🎧 **[{title}]({link})**\n"
               f"<!-- PODCAST_EPISODE_END -->"
           )
-          new_content = re.sub(
+          content = re.sub(
               r"<!-- PODCAST_EPISODE_START -->.*?<!-- PODCAST_EPISODE_END -->",
               episode_block,
               content,
               flags=re.DOTALL,
           )
 
-          with open("README.md", "w", encoding="utf-8") as f:
-              f.write(new_content)
+          # Update cover image link to point to latest episode
+          image_block = (
+              f"<!-- PODCAST_IMAGE_START -->\n"
+              f'<a href="{link}"><img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ad/8e/fd/ad8efde9-ff28-54d8-e19c-5d59e7c9291a/mza_4474957022231398879.jpeg/600x600bb.jpg" width="120" alt="ひまじんプログラマー" /></a>\n'
+              f"<!-- PODCAST_IMAGE_END -->"
+          )
+          content = re.sub(
+              r"<!-- PODCAST_IMAGE_START -->.*?<!-- PODCAST_IMAGE_END -->",
+              image_block,
+              content,
+              flags=re.DOTALL,
+          )
 
-          print(f"Updated: {title}")
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(content)
+
+          print(f"Updated: {title} -> {link}")
           EOF
 
       - name: Commit changes
