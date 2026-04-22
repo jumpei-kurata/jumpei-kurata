@@ -68,7 +68,7 @@ jobs:
           # Update profile views badge count
           content = re.sub(
               r"<!-- VIEWS_BADGE_START -->.*?<!-- VIEWS_BADGE_END -->",
-              f'<!-- VIEWS_BADGE_START -->\n✨ [![GitHub Profile Views](https://img.shields.io/badge/GitHub_Profile_Views-{count}-9d174d?style=for-the-badge&labelColor=ec4899&logo=github&logoColor=white)](https://github.com/jumpei-kurata) ✨\n<!-- VIEWS_BADGE_END -->',
+              f'<!-- VIEWS_BADGE_START -->\n✨ [![GitHub Profile Views](https://img.shields.io/badge/GitHub_Profile_Views-{count}-ec4899?style=for-the-badge&labelColor=9d174d&logo=github&logoColor=white)](https://github.com/jumpei-kurata) ✨\n<!-- VIEWS_BADGE_END -->',
               content, flags=re.DOTALL,
           )
 
