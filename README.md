@@ -26,14 +26,25 @@ I'm a software developer with hands-on experience in Java and web development, p
 
 ## 🎙️ Latest Podcast Episode
 
-**ひまじんプログラマー** — 週末エンジニアリングレッスン
+<table>
+<tr>
+<td width="130" valign="top">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ad/8e/fd/ad8efde9-ff28-54d8-e19c-5d59e7c9291a/mza_4474957022231398879.jpeg/600x600bb.jpg" width="120" alt="ひまじんプログラマー" />
+</td>
+<td valign="top">
 
-> ⚠️ *This podcast is in Japanese only — ごめんね！*
+**ひまじんプログラマーの週末エンジニアリングレッスン**
+
+> ⚠️ *Japanese only — ごめんね！*
 
 <!-- PODCAST_EPISODE_START -->
 <!-- PODCAST_EPISODE_END -->
 
 [![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=Apple%20Podcasts&logoColor=white)](https://podcasts.apple.com/us/podcast/%E3%81%B2%E3%81%BE%E3%81%98%E3%82%93%E3%83%97%E3%B0%E3%83%A9%E3%83%9E%E3%83%BC/id1601084785)
+
+</td>
+</tr>
+</table>
 
 ---
 
