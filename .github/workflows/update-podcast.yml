@@ -2,7 +2,7 @@ name: Update Latest Podcast Episode
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours
+    - cron: '0 22 * * *'  # Daily at 7:00 AM JST (Mon/Thu releases + surprise updates)
   workflow_dispatch:        # Allow manual trigger
 
 permissions:
