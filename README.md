@@ -32,11 +32,16 @@
 <table>
 <tr>
 <td width="130" valign="top">
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ad/8e/fd/ad8efde9-ff28-54d8-e19c-5d59e7c9291a/mza_4474957022231398879.jpeg/600x600bb.jpg" width="120" alt="ひまじんプログラマー" />
+
+<!-- PODCAST_IMAGE_START -->
+<a href="https://podcasts.apple.com/us/podcast/id1601084785"><img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ad/8e/fd/ad8efde9-ff28-54d8-e19c-5d59e7c9291a/mza_4474957022231398879.jpeg/600x600bb.jpg" width="120" alt="ひまじんプログラマー" /></a>
+<!-- PODCAST_IMAGE_END -->
+
 </td>
 <td valign="top">
 
 **ひまじんプログラマーの週末エンジニアリングレッスン**
+*Weekend Engineering Lessons by a Casual Dev*
 
 > ⚠️ *Japanese only — sorry about that!*
 
