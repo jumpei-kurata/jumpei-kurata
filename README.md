@@ -31,7 +31,7 @@
 
 <table>
 <tr>
-<td width="130" valign="top">
+<td width="130" valign="middle">
 
 <!-- PODCAST_IMAGE_START -->
 <a href="https://podcasts.apple.com/us/podcast/id1601084785"><img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ad/8e/fd/ad8efde9-ff28-54d8-e19c-5d59e7c9291a/mza_4474957022231398879.jpeg/600x600bb.jpg" width="120" alt="ひまじんプログラマー" /></a>
@@ -46,10 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#456 📩 インプット時間の確保の仕方｜ブランチ戦略のベストプラクティス｜AIコーディングツールのススメ](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
-
-[![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=Apple%20Podcasts&logoColor=white)](https://podcasts.apple.com/us/podcast/id1601084785)
 
 </td>
 </tr>
