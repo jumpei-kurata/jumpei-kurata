@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+)](https://www.linkedin.com/in/jumpei-kurata/)
 [![X](https://img.shields.io/badge/PROFILE-1D9BF0?style=for-the-badge&logo=x&logoColor=white)](https://x.com/panpaaaaash)
-[![GitHub](https://img.shields.io/badge/GitHub-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jumpei-kurata)
+[![NeetCode](https://img.shields.io/badge/NeetCode-00BF63?style=for-the-badge&logo=leetcode&logoColor=white)](https://neetcode.io/profile/jumpei-kurata)
 [![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=Apple%20Podcasts&logoColor=white)](https://podcasts.apple.com/us/podcast/id1601084785)
 
 </div>
@@ -22,6 +22,7 @@
 | 📍 | Based in **Japan** — actively seeking roles in **Canada** 🍁 |
 | 🔧 | **Java** · **Spring Boot** · HTML · CSS |
 | 🎙️ | Podcast host — [ひまじんプログラマー](https://podcasts.apple.com/us/podcast/id1601084785) *(dev-life podcast, Japanese)* |
+| 👥 | Runs **[ひまプロ談話室](https://docs.google.com/forms/d/1qkJjqsy0UA9FPLuAuGTcq7aV2DREP1CWj90gmloqjks/viewform)** — Slack community of **300+ engineers** |
 | 💼 | **Open to work** — software developer roles |
 | 📫 | se.jumpei114kurata@gmail.com |
 
@@ -101,3 +102,4 @@
 [![X](https://img.shields.io/badge/FOLLOW-1D9BF0?style=for-the-badge&logo=x&logoColor=white)](https://x.com/panpaaaaash)
 [![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=Apple%20Podcasts&logoColor=white)](https://podcasts.apple.com/us/podcast/id1601084785)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:se.jumpei114kurata@gmail.com)
+[![Join Community](https://img.shields.io/badge/Join_Community-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://docs.google.com/forms/d/1qkJjqsy0UA9FPLuAuGTcq7aV2DREP1CWj90gmloqjks/viewform)
