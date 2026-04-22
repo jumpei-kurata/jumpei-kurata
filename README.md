@@ -6,8 +6,8 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto)](https://www.linkedin.com/in/jumpei-kurata/)
-[![X](https://img.shields.io/badge/X-1D9BF0?style=for-the-badge&logo=x&logoColor=white&label=)](https://x.com/panpaaaaash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jumpei-kurata/)
+[![X](https://img.shields.io/badge/X-1D9BF0?style=for-the-badge&logo=x&logoColor=white)](https://x.com/panpaaaaash)
 [![GitHub](https://img.shields.io/badge/GitHub-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jumpei-kurata)
 [![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=Apple%20Podcasts&logoColor=white)](https://podcasts.apple.com/us/podcast/id1601084785)
 
@@ -97,7 +97,7 @@
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto)](https://www.linkedin.com/in/jumpei-kurata/)
-[![X](https://img.shields.io/badge/X-1D9BF0?style=for-the-badge&logo=x&logoColor=white&label=)](https://x.com/panpaaaaash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jumpei-kurata/)
+[![X](https://img.shields.io/badge/X-1D9BF0?style=for-the-badge&logo=x&logoColor=white)](https://x.com/panpaaaaash)
 [![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=Apple%20Podcasts&logoColor=white)](https://podcasts.apple.com/us/podcast/id1601084785)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:se.jumpei114kurata@gmail.com)
