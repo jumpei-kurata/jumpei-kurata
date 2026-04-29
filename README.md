@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#457 エクストリームプログラミング第３弾 〜カリスマと強権政治の交差点〜](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#458 今噂のFDEとは？要するにスーパーコンサルって事っすか！？](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
