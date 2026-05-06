@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#459 現状分析と課題洗い出しから始めない。業務改革の失敗と挑戦(AI-BPR)](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#460 パパエンジニアが育児中に個人開発を進めるためにやってることと、Claude Designの世間話](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
