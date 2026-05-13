@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#461 シュレディンガーの猫カフェでモナドを学ぼう！](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#462 DBを選定する際のポイントを パッと言えない人全員集合(RDB/Mongo編)](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
