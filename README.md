@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#464 エンジニア3年目の自分に伝えたいこと](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#465 AI時代のコアスキル「センス」の磨き方](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
