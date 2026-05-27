@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#465 AI時代のコアスキル「センス」の磨き方](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#466 10年後のイメージとそれを達成するための目標設定リアル相談会](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
