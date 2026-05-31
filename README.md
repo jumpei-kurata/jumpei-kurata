@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#466 10年後のイメージとそれを達成するための目標設定リアル相談会](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#467 そこの君🫵俺より休めるんか！ひまプロ流休息](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
