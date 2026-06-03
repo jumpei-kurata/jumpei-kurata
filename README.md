@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#467 そこの君🫵俺より休めるんか！ひまプロ流休息](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#468 AI-DLC v2の原則を見て、AI駆動開発に必要なエッセンスを抽出抽出ぅ！](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
