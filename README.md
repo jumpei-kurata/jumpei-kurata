@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#468 AI-DLC v2の原則を見て、AI駆動開発に必要なエッセンスを抽出抽出ぅ！](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#469 フリーランスの“キラキラ情報”はもう古い？AI時代の生存戦略を業界の中の人が暴露【3-Shake「Relance」】](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
