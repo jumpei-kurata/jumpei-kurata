@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#470 タ◯スで考える、列指向ストレージ 〜あいつってなんで速いん？〜](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#471 DBのレプリケーションから組織の動かし方が学べるって知ってる？](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
