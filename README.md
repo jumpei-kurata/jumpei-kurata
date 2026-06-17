@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#471 DBのレプリケーションから組織の動かし方が学べるって知ってる？](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#472 恐怖のラブレターはZipで圧縮して怖くなくしよう！](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
