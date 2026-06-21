@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#472 恐怖のラブレターはZipで圧縮して怖くなくしよう！](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#473 まだ働いたことないのでキャリアビジョンが見えません！そんなお悩みに3人のエンジニアがお答えします](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
