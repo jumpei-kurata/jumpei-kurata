@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#475 RDBはACIDだからって本当に安心して良いのか？](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#476 AIエージェントのためのテスト手法とその考え方](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
