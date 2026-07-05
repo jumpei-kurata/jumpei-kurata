@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#476 AIエージェントのためのテスト手法とその考え方](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#477 街にもOSがあるって知ってる？](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
