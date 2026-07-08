@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#477 街にもOSがあるって知ってる？](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#478 ループエンジニアリングって居酒屋で見たあの光景と同じだよね](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
