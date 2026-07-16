@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#479 祖母悪用！プロンプトインジェクションを学ぶとは詐欺師の手口を学ぶことである](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#480 サーバ証明書の期限、めっちゃ短くなります(ACME)](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
