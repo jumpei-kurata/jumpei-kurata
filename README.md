@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#480 サーバ証明書の期限、めっちゃ短くなります(ACME)](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#481 法律界のジャイアンGDPRについてエンジニアが知っておくべきこと](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
