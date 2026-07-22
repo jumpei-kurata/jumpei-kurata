@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#481 法律界のジャイアンGDPRについてエンジニアが知っておくべきこと](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#482 組織のための心理学入門](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
