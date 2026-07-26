@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#482 組織のための心理学入門](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#483 組織行動論から見るエクストリームプログラミングの壁](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
