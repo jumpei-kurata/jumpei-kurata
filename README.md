@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#483 組織行動論から見るエクストリームプログラミングの壁](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#484 文系出身の未経験エンジニアで客先常駐型の窓際族が、ひまプロを聞くことによって大手の社内SEにまで上り詰めた！？そんなヘビーリスナーの方が気になるひまプロのパーソナリティーとは！？📩](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
