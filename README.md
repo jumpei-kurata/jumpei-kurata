@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#485 「3日うんち出てなかったらSlackにアラート」育休エンジニアが作るAI駆動家庭](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#487 エンジニアなら家計のSTG環境用意しようぜ](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
