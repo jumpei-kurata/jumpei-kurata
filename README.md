@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#487 エンジニアなら家計のSTG環境用意しようぜ](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#486 コミット力を高めてゴリゴリとプロジェクトを推進するパワーを差し上げます。](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
