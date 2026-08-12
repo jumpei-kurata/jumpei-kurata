@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#487 エンジニアなら家計のSTG環境用意しようぜ](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#488 AI使ったToDo管理でつまづいて得た学び](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
