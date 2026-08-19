@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#489 仕様書たった1ページ。Googleが出した「AIが読む知識」の置き方「OKF」](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#490 エンジニア大あおり会。今回のは、リーマンと違ってもう戻ってこない](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
