@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#491 JSON-LDは何のために埋め込むの？](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#492 過去のVibeCodingでやったことを悔いるぜ！](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
