@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#493 現代のLLMの弱点、長い文章で重くなるを解決する日本発のアイディア「PHOTON」](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#494 インターンで惚れた部署に、配属されなかった。新卒はどう動く？📩](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
