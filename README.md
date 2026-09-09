@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#495 たぶんほとんどの人が25%しか理解してない、EQの話](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#496 しゃべれるエンジニアって、具体的に何ができる人なの？](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
