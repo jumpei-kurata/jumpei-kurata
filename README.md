@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#496 しゃべれるエンジニアって、具体的に何ができる人なの？](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#497 「リーダーシップについてはなそう」についてはなそう](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
