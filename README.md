@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#497 「リーダーシップについてはなそう」についてはなそう](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#498 休め、エンジニア](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
