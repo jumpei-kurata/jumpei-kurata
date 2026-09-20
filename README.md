@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#498 休め、エンジニア](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#499 AIコンサルタント茶柱のりおの日常](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
