@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#499 AIコンサルタント茶柱のりおの日常](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#500 番組名変更！？SWOT分析で今後の番組の方向性を考える！](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
