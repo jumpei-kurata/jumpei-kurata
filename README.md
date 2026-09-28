@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#500 番組名変更！？SWOT分析で今後の番組の方向性を考える！](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#501 どんなチームを作りたいかと、チームを殺す方法](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
