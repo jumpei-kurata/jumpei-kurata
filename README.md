@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#501 どんなチームを作りたいかと、チームを殺す方法](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#502 プレゼンのシグナルノイズ比を高めて結婚しよう](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
