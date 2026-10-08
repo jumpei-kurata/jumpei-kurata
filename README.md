@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#503 SESの仕組みが透けて見えるSESクイズ！](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#504 マネージャーとして心掛けていること、個性的なメンバーへの対処法は！？📩](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
