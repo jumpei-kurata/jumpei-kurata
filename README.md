@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#504 マネージャーとして心掛けていること、個性的なメンバーへの対処法は！？📩](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#505 まだ、筋肉って増やすと痩せやすいよね！としか思ってないの？](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
