@@ -116,6 +116,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [usage-band](https://github.com/jumpei-kurata/claude-mods) | Claude Code mod that shows your 5-hour and weekly usage next to the prompt | TypeScript |
 | [ec-202110aKurata](https://github.com/jumpei-kurata/ec-202110aKurata) | E-commerce web application | Java |
 | [ex-emp-management](https://github.com/jumpei-kurata/ex-emp-management) | Employee management system (Spring Boot) | HTML / Java |
 | [ex-emp-management-bugfix](https://github.com/jumpei-kurata/ex-emp-management-bugfix) | Bug fixes, features & security improvements | HTML / Java |
