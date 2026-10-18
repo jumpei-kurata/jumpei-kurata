@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#506 あなたの知らないランサムウェアの世界](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#507 そのマニュアル、本当に必要？ピープルウェアで考える「手順書」と「チームの結束」　](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
