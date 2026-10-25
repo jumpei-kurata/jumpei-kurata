@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#508 豊臣秀吉の太閤検地](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#509 Claude Codeのトークン節約したいので、試行錯誤したことを話すぜ！！(攻めの節約編)](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
