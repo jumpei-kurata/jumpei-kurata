@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#509 Claude Codeのトークン節約したいので、試行錯誤したことを話すぜ！！(攻めの節約編)](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#510 ラーメン食べたらキャッシュが消えた？Claude CodeのTTL（守りの節約編）](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
