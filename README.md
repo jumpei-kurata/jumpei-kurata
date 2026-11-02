@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#510 ラーメン食べたらキャッシュが消えた？Claude CodeのTTL（守りの節約編）](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#511 個人開発の電卓アプリで3円稼いだ！AI時代の「数撃ちゃ当たる」生存戦略 ~アプリ12ヶ月連続リリースチャレンジ~](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
