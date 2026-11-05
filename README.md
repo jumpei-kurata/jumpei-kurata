@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#511 個人開発の電卓アプリで3円稼いだ！AI時代の「数撃ちゃ当たる」生存戦略 ~アプリ12ヶ月連続リリースチャレンジ~](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#512 PHP2Shellで騒ぐ世への提言  ~大海賊時代~](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
