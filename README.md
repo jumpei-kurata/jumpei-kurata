@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#512 PHP2Shellで騒ぐ世への提言  ~大海賊時代~](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#513 1日3万件のレビューを捌くAnthropicのレビューテクニック！](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
