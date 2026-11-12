@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#513 1日3万件のレビューを捌くAnthropicのレビューテクニック！](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#514 AI時代のセキュリティ新常識！？ AIに侵入口を見てもらうと、割と出てきちゃう](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
