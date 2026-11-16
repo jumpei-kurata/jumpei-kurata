@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#514 AI時代のセキュリティ新常識！？ AIに侵入口を見てもらうと、割と出てきちゃう](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#515 そのサブエージェント、本当に必要？単一ループで爆速・節約開発](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
