@@ -17,11 +17,11 @@
 
 | | |
 |:---:|:---|
-| 📍 | Based in **Vancouver, Canada** 🍁 (Working Holiday visa) |
-| 💡 | **4+ years** building AI platforms · RAG · LLMs · Full-Stack at **SoftBank Corp.** |
+| 📍 | Based in **Vancouver, Canada** 🍁 (Open Work Permit (IEC), no sponsorship required) |
+| 💡 | **4+ years** as a software engineer, including **2 years on SoftBank's enterprise LLM platform** (Azure OpenAI · RAG · Full-Stack) |
 | 🔧 | **Python** · **TypeScript** · **Azure OpenAI** · RAG · Terraform · Docker |
 | 🎙️ | Podcast host — [ひまじんプログラマー](https://podcasts.apple.com/us/podcast/id1601084785) *(Top 10 in Japan, Peak #7)* |
-| 👥 | Runs **[ひまプロ談話室](https://docs.google.com/forms/d/1qkJjqsy0UA9FPLuAuGTcq7aV2DREP1CWj90gmloqjks/viewform)** — Slack community of **300+ engineers** |
+| 👥 | Runs **[ひまプロ談話室](https://docs.google.com/forms/d/1qkJjqsy0UA9FPLuAuGTcq7aV2DREP1CWj90gmloqjks/viewform)** — Slack community of **350+ engineers** |
 | 💼 | **Open to work** — software developer roles in Canada |
 | 📫 | se.jumpei114kurata@gmail.com |
 
@@ -71,7 +71,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)
 
 **Cloud & Infrastructure**
 
@@ -87,7 +87,6 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -116,12 +115,9 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [ReplayClip](https://apps.apple.com/ca/app/replayclip-video-delay-camera/id6819879439) | iOS video delay camera for dance and sports practice, built solo (App Store, 2026) | SwiftUI |
+| [NoEquals](https://apps.apple.com/ca/app/noequals-voice-calculator/id6818703251) | iOS calculator that shows the result as you type, built solo (App Store, 2026) | SwiftUI |
 | [usage-band](https://github.com/jumpei-kurata/claude-mods) | Claude Code mod that shows your 5-hour and weekly usage next to the prompt | TypeScript |
-| [ec-202110aKurata](https://github.com/jumpei-kurata/ec-202110aKurata) | E-commerce web application | Java |
-| [ex-emp-management](https://github.com/jumpei-kurata/ex-emp-management) | Employee management system (Spring Boot) | HTML / Java |
-| [ex-emp-management-bugfix](https://github.com/jumpei-kurata/ex-emp-management-bugfix) | Bug fixes, features & security improvements | HTML / Java |
-| [rakucari](https://github.com/jumpei-kurata/rakucari) | Mercari-inspired marketplace clone | HTML |
-| [batchprocessing](https://github.com/jumpei-kurata/batchprocessing) | Batch processing practice project | Java |
 
 ---
 
