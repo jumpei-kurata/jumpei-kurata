@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#516 その指示どこに書く？Claude Codeの読み込み順とPrompt Audit](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#517 非エンジニアPM・PLはどこまで知っておけば燃えない？求められる知識のレベル感📩](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
