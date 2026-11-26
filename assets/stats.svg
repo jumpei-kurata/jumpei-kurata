@@ -4,13 +4,13 @@
 <text x="25" y="35" class="t">Jumpei Kurata's GitHub Stats</text>
 <circle cx="31" cy="67" r="4" fill="#bf91f3"/>
 <text x="45" y="72" class="k">Total Commits (last year):</text>
-<text x="442" y="72" class="v" text-anchor="end">10,658</text>
+<text x="442" y="72" class="v" text-anchor="end">10,659</text>
 <circle cx="31" cy="93" r="4" fill="#bf91f3"/>
 <text x="45" y="98" class="k">Pull Requests (all time):</text>
 <text x="442" y="98" class="v" text-anchor="end">402</text>
 <circle cx="31" cy="119" r="4" fill="#bf91f3"/>
-<text x="45" y="124" class="k">PR Reviews (last year):</text>
-<text x="442" y="124" class="v" text-anchor="end">0</text>
+<text x="45" y="124" class="k">PRs Reviewed (all time):</text>
+<text x="442" y="124" class="v" text-anchor="end">2</text>
 <circle cx="31" cy="145" r="4" fill="#bf91f3"/>
 <text x="45" y="150" class="k">Issues (all time):</text>
 <text x="442" y="150" class="v" text-anchor="end">204</text>
