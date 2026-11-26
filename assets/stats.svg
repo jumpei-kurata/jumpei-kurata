@@ -4,7 +4,7 @@
 <text x="25" y="35" class="t">Jumpei Kurata's GitHub Stats</text>
 <circle cx="31" cy="67" r="4" fill="#bf91f3"/>
 <text x="45" y="72" class="k">Total Commits (last year):</text>
-<text x="442" y="72" class="v" text-anchor="end">10,655</text>
+<text x="442" y="72" class="v" text-anchor="end">10,658</text>
 <circle cx="31" cy="93" r="4" fill="#bf91f3"/>
 <text x="45" y="98" class="k">Pull Requests (all time):</text>
 <text x="442" y="98" class="v" text-anchor="end">5</text>
