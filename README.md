@@ -46,7 +46,7 @@
 > ⚠️ *Japanese only — sorry about that!*
 
 <!-- PODCAST_EPISODE_START -->
-🎧 **[#517 非エンジニアPM・PLはどこまで知っておけば燃えない？求められる知識のレベル感📩](https://podcasts.apple.com/us/podcast/id1601084785)**
+🎧 **[#518 パスワード機能を実装するならこれやるな！ユーザーによる脆弱なパスワードを誘発してしまうアンチパターンN選](https://podcasts.apple.com/us/podcast/id1601084785)**
 <!-- PODCAST_EPISODE_END -->
 
 </td>
