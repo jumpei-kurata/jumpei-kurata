@@ -39,6 +39,7 @@ query($from: DateTime!, $to: DateTime!) {
     issues { totalCount }
     repositories(ownerAffiliations: OWNER) { totalCount }
     contributionsCollection(from: $from, to: $to) {
+      contributionCalendar { totalContributions }
       totalCommitContributions
       totalPullRequestReviewContributions
       restrictedContributionsCount
@@ -66,7 +67,7 @@ issues = max(v["issues"]["totalCount"], s["issues"]["issueCount"])
 rows = [
     ("Total Commits (last year)", commits),
     ("Pull Requests (all time)", prs),
-    ("PRs Reviewed (all time)", max(cc["totalPullRequestReviewContributions"], s["reviews"]["issueCount"])),
+    ("Contributions (last year)", cc["contributionCalendar"]["totalContributions"]),
     ("Issues (all time)", issues),
     ("Repositories", v["repositories"]["totalCount"]),
     ("Repos Committed To (last year)", cc["totalRepositoriesWithContributedCommits"]),
