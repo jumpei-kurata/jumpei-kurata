@@ -50,11 +50,13 @@ query($from: DateTime!, $to: DateTime!) {
 
 login = v["login"]
 s = gql("""
-query($prq: String!, $isq: String!) {
+query($prq: String!, $isq: String!, $rvq: String!) {
   prs: search(query: $prq, type: ISSUE) { issueCount }
   issues: search(query: $isq, type: ISSUE) { issueCount }
+  reviews: search(query: $rvq, type: ISSUE) { issueCount }
 }
-""", {"prq": f"author:{login} is:pr", "isq": f"author:{login} is:issue"})
+""", {"prq": f"author:{login} is:pr", "isq": f"author:{login} is:issue",
+      "rvq": f"reviewed-by:{login} is:pr -author:{login}"})
 
 cc = v["contributionsCollection"]
 commits = cc["totalCommitContributions"] + cc["restrictedContributionsCount"]
@@ -64,7 +66,7 @@ issues = max(v["issues"]["totalCount"], s["issues"]["issueCount"])
 rows = [
     ("Total Commits (last year)", commits),
     ("Pull Requests (all time)", prs),
-    ("PR Reviews (last year)", cc["totalPullRequestReviewContributions"]),
+    ("PRs Reviewed (all time)", max(cc["totalPullRequestReviewContributions"], s["reviews"]["issueCount"])),
     ("Issues (all time)", issues),
     ("Repositories", v["repositories"]["totalCount"]),
     ("Repos Committed To (last year)", cc["totalRepositoriesWithContributedCommits"]),
