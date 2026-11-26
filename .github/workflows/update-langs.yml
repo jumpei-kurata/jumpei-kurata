@@ -12,7 +12,7 @@ jobs:
   update-langs:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       # Stats + languages cards that include private repos
       # https://github.com/jumpei-kurata/private-stats-cards
