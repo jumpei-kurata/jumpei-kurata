@@ -94,7 +94,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jumpei-kurata&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="./assets/stats.svg" alt="GitHub Stats (public and private repos)" />
   <img height="160" src="./assets/langs.svg" alt="Most Used Languages (public and private repos)" />
 </div>
 
