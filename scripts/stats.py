@@ -15,7 +15,22 @@ OUT = "assets/stats.svg"
 now = datetime.now(timezone.utc)
 year_ago = now - timedelta(days=365)
 
-QUERY = """
+
+def gql(query, variables):
+    body = json.dumps({"query": query, "variables": variables}).encode()
+    req = urllib.request.Request(
+        "https://api.github.com/graphql",
+        data=body,
+        headers={"Authorization": f"bearer {TOKEN}", "Content-Type": "application/json"},
+    )
+    with urllib.request.urlopen(req) as r:
+        data = json.loads(r.read())
+    if "errors" in data:
+        raise SystemExit(f"GraphQL error: {data['errors']}")
+    return data["data"]
+
+
+v = gql("""
 query($from: DateTime!, $to: DateTime!) {
   viewer {
     name
@@ -25,46 +40,39 @@ query($from: DateTime!, $to: DateTime!) {
     repositories(ownerAffiliations: OWNER) { totalCount }
     contributionsCollection(from: $from, to: $to) {
       totalCommitContributions
-      totalPullRequestContributions
       totalPullRequestReviewContributions
-      totalIssueContributions
       restrictedContributionsCount
       totalRepositoriesWithContributedCommits
     }
   }
 }
-"""
+""", {"from": year_ago.isoformat(), "to": now.isoformat()})["viewer"]
 
-body = json.dumps({
-    "query": QUERY,
-    "variables": {"from": year_ago.isoformat(), "to": now.isoformat()},
-}).encode()
-req = urllib.request.Request(
-    "https://api.github.com/graphql",
-    data=body,
-    headers={"Authorization": f"bearer {TOKEN}", "Content-Type": "application/json"},
-)
-with urllib.request.urlopen(req) as r:
-    data = json.loads(r.read())
-if "errors" in data:
-    raise SystemExit(f"GraphQL error: {data['errors']}")
+login = v["login"]
+s = gql("""
+query($prq: String!, $isq: String!) {
+  prs: search(query: $prq, type: ISSUE) { issueCount }
+  issues: search(query: $isq, type: ISSUE) { issueCount }
+}
+""", {"prq": f"author:{login} is:pr", "isq": f"author:{login} is:issue"})
 
-v = data["data"]["viewer"]
 cc = v["contributionsCollection"]
 commits = cc["totalCommitContributions"] + cc["restrictedContributionsCount"]
+prs = max(v["pullRequests"]["totalCount"], s["prs"]["issueCount"])
+issues = max(v["issues"]["totalCount"], s["issues"]["issueCount"])
 
 rows = [
     ("Total Commits (last year)", commits),
-    ("Pull Requests (all time)", v["pullRequests"]["totalCount"]),
+    ("Pull Requests (all time)", prs),
     ("PR Reviews (last year)", cc["totalPullRequestReviewContributions"]),
-    ("Issues (all time)", v["issues"]["totalCount"]),
+    ("Issues (all time)", issues),
     ("Repositories", v["repositories"]["totalCount"]),
     ("Repos Committed To (last year)", cc["totalRepositoriesWithContributedCommits"]),
 ]
 
 W, PAD = 467, 25
 H = 75 + len(rows) * 26 + 10
-name = v["name"] or v["login"]
+name = v["name"] or login
 
 parts = [
     f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="GitHub Stats">',
@@ -89,3 +97,4 @@ with open(OUT, "w", encoding="utf-8") as f:
 
 for label, value in rows:
     print(f"{label}: {value}")
+print(f"viewer PRs={v['pullRequests']['totalCount']} search PRs={s['prs']['issueCount']}")
