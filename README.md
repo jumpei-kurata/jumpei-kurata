@@ -95,7 +95,7 @@
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=jumpei-kurata&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumpei-kurata&layout=compact&theme=tokyonight&hide_border=true&hide=vba" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumpei-kurata&layout=compact&theme=tokyonight&hide_border=true&hide=vba,html,css" />
 </div>
 
 <div align="center">
