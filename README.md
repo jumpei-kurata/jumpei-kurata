@@ -122,6 +122,7 @@
 | [ReplayClip](https://apps.apple.com/ca/app/replayclip-video-delay-camera/id6819879439) | iOS video delay camera for dance and sports practice, built solo (App Store, 2026) | SwiftUI |
 | [NoEquals](https://apps.apple.com/ca/app/noequals-voice-calculator/id6818703251) | iOS calculator that shows the result as you type, built solo (App Store, 2026) | SwiftUI |
 | [Himadan Archive](https://github.com/himapro-community/himadan-archive) | Web app that archives and browses the Slack history of a 350+ member developer community, with a daily crawler on GitHub Actions | React · Fastify · Prisma · TypeScript |
+| [private-stats-cards](https://github.com/jumpei-kurata/private-stats-cards) | GitHub Action that builds profile stats and top-languages cards including private repos, using a read-only fine-grained token (on the GitHub Marketplace) | Python · GitHub Actions · GraphQL |
 | [usage-band](https://github.com/jumpei-kurata/claude-mods) | Claude Code mod that shows your 5-hour and weekly usage next to the prompt | TypeScript |
 
 ---
