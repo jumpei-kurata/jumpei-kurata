@@ -97,8 +97,10 @@
 
 <div align="center">
   <img height="160" src="./assets/stats.svg" alt="GitHub Stats (public and private repos)" />
-  <img height="160" src="./assets/langs.svg" alt="Most Used Languages (public and private repos)" />
+  <img height="160" src="./assets/languages.svg" alt="Most Used Languages (public and private repos)" />
 </div>
+
+<div align="center"><sub>Cards built with <a href="https://github.com/jumpei-kurata/private-stats-cards">private-stats-cards</a></sub></div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=jumpei-kurata&theme=tokyonight&hide_border=true" />

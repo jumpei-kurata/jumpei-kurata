@@ -12,25 +12,13 @@ jobs:
   update-langs:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
-      - name: Build languages card (public + private repos)
-        env:
-          LANGS_TOKEN: ${{ secrets.LANGS_TOKEN }}
-        run: python3 scripts/langs.py
-
-      - name: Build stats card (public + private repos)
-        env:
-          LANGS_TOKEN: ${{ secrets.LANGS_TOKEN }}
-        run: python3 scripts/stats.py
-
-      - name: Commit changes
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add assets/langs.svg assets/stats.svg
-          git diff --cached --quiet && echo "No changes to commit" || (
-            git commit -m "chore: update languages and stats cards" &&
-            git pull --rebase &&
-            git push
-          )
+      # Stats + languages cards that include private repos
+      # https://github.com/jumpei-kurata/private-stats-cards
+      - uses: jumpei-kurata/private-stats-cards@v1.1.0
+        with:
+          token: ${{ secrets.LANGS_TOKEN }}
+          output-dir: assets
+          hide-languages: HTML,CSS,VBA,Rich Text Format,SCSS,Jupyter Notebook,Dockerfile,Makefile,Procfile,Batchfile,Roff
+          commit-message: "chore: update languages and stats cards"

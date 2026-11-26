@@ -1,16 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="467" height="241" viewBox="0 0 467 241" role="img" aria-label="GitHub Stats">
-<style>.t{font:600 18px "Segoe UI",Ubuntu,sans-serif;fill:#70a5fd}.k{font:600 14px "Segoe UI",Ubuntu,sans-serif;fill:#38bdae}.v{font:700 14px "Segoe UI",Ubuntu,sans-serif;fill:#38bdae}.n{font:400 10px "Segoe UI",Ubuntu,sans-serif;fill:#a9b1d6}</style>
-<rect x="0.5" y="0.5" width="466" height="240" rx="4.5" fill="#1a1b27"/>
-<text x="25" y="35" class="t">Jumpei Kurata's GitHub Stats</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="241" viewBox="0 0 467 241" role="img" aria-labelledby="title">
+<title id="title">Jumpei Kurata&#x27;s GitHub Stats</title>
+<style>.t{font:600 18px "Segoe UI",Ubuntu,"Helvetica Neue",Sans-Serif;fill:#70a5fd}.k{font:600 14px "Segoe UI",Ubuntu,"Helvetica Neue",Sans-Serif;fill:#38bdae}.v{font:700 14px "Segoe UI",Ubuntu,"Helvetica Neue",Sans-Serif;fill:#38bdae}.n{font:400 10px "Segoe UI",Ubuntu,"Helvetica Neue",Sans-Serif;fill:#a9b1d6}</style>
+<rect x="0.5" y="0.5" width="466" height="240" rx="4.5" fill="#1a1b27" stroke="#1a1b27"/>
+<text x="25" y="35" class="t">Jumpei Kurata&#x27;s GitHub Stats</text>
 <circle cx="31" cy="67" r="4" fill="#bf91f3"/>
 <text x="45" y="72" class="k">Total Commits (last year):</text>
-<text x="442" y="72" class="v" text-anchor="end">10,662</text>
+<text x="442" y="72" class="v" text-anchor="end">10,666</text>
 <circle cx="31" cy="93" r="4" fill="#bf91f3"/>
 <text x="45" y="98" class="k">Pull Requests (all time):</text>
-<text x="442" y="98" class="v" text-anchor="end">402</text>
+<text x="442" y="98" class="v" text-anchor="end">403</text>
 <circle cx="31" cy="119" r="4" fill="#bf91f3"/>
 <text x="45" y="124" class="k">Contributions (last year):</text>
-<text x="442" y="124" class="v" text-anchor="end">10,671</text>
+<text x="442" y="124" class="v" text-anchor="end">10,676</text>
 <circle cx="31" cy="145" r="4" fill="#bf91f3"/>
 <text x="45" y="150" class="k">Issues (all time):</text>
 <text x="442" y="150" class="v" text-anchor="end">204</text>
