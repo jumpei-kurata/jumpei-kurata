@@ -19,13 +19,18 @@ jobs:
           LANGS_TOKEN: ${{ secrets.LANGS_TOKEN }}
         run: python3 scripts/langs.py
 
+      - name: Build stats card (public + private repos)
+        env:
+          LANGS_TOKEN: ${{ secrets.LANGS_TOKEN }}
+        run: python3 scripts/stats.py
+
       - name: Commit changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add assets/langs.svg
+          git add assets/langs.svg assets/stats.svg
           git diff --cached --quiet && echo "No changes to commit" || (
-            git commit -m "chore: update languages card" &&
+            git commit -m "chore: update languages and stats cards" &&
             git pull --rebase &&
             git push
           )
