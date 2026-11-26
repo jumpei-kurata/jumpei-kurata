@@ -16,7 +16,7 @@ jobs:
 
       # Stats + languages cards that include private repos
       # https://github.com/jumpei-kurata/private-stats-cards
-      - uses: jumpei-kurata/private-stats-cards@v1
+      - uses: jumpei-kurata/private-stats-cards@v1.1.0
         with:
           token: ${{ secrets.LANGS_TOKEN }}
           output-dir: assets
