@@ -1,0 +1,31 @@
+name: Update Languages Card
+
+on:
+  schedule:
+    - cron: '30 22 * * *'  # Daily, after the podcast update
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-langs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build languages card (public + private repos)
+        env:
+          LANGS_TOKEN: ${{ secrets.LANGS_TOKEN }}
+        run: python3 scripts/langs.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add assets/langs.svg
+          git diff --cached --quiet && echo "No changes to commit" || (
+            git commit -m "chore: update languages card" &&
+            git pull --rebase &&
+            git push
+          )
